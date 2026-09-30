@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795299352767",
+    "project_id": "splitmadu-app",
+    "storage_bucket": "splitmadu-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795299352767:android:ca74fbf3877c021e28b60a",
+        "android_client_info": {
+          "package_name": "com.splitmadu.splitmadu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFwDpo-1tbzFahh-_YH8ld6rHhPq0gTkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
